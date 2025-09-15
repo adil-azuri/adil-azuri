@@ -45,7 +45,8 @@ I love building **Fullstack Web Apps** and exploring **Backend** technologies.
 </div>
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/adil-azuri/adil-azuri/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/adil-azuri/adil-azuri/blob/output/github-contribution-grid-snake.svg)](https://github.com/adil-azuri/adil-azuri)
+
 
 ---
 
