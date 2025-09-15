@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 
-![Github Banner](/adil-azuri/img/banner.png)
+![Github Banner](img/banner.png)
 
 <h1 align="center">I'm 
 <a href="https://github.com/adil-azuri">
@@ -10,11 +10,11 @@ Adil Aulia Azuri <a>
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Science;Always20%learning%20new%20things&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Computer+Science;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
 
 <!-- About -->
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="150" />
 
 **About Me!**
 
