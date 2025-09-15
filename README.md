@@ -11,7 +11,7 @@
 </h1>
 
 <!-- ABOUT ME -->
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" alt="GIF" src="/img/coding.gif" width="300" style="margin-left: 20px; margin-bottom: 20px;" />
 
 **About Me!**
 
