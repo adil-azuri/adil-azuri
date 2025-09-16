@@ -20,7 +20,7 @@
 - 👨‍💻 I have completed a **Fullstack Developer Bootcamp at Dumbways.id**, gaining real-world project experience and industry-ready skills.  
 - 🤔 I’m passionate about building scalable and efficient web applications.  
 - 💬 Feel free to ask me anything about **JavaScript**, **TypeScript**, **Express**, or backend development!  
-- 📫 Reach me at [adil.azuri.145@gmail.com](mailto:adil.azuri.145@gmail.com).  
+- 📫 [Reach me](mailto:adil.azuri.145@gmail.com).  
 
 ---
 
