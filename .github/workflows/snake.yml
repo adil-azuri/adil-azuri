@@ -2,21 +2,17 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Action akan berjalan setiap 6 jam
-    - cron: "0 */6 * * *"
-  # Memungkinkan untuk menjalankan secara manual dari tab Actions
+    - cron: "0 */6 * * *" 
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Langkah 1: Checkout kode repo
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 
 
-      # Langkah 2: Menghasilkan animasi ular
       - uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -25,7 +21,6 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Langkah 3: Mendorong file yang dihasilkan ke branch 'output'
       - name: Push changes to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
