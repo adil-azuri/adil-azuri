@@ -1,10 +1,36 @@
-# ... kode workflow lainnya ...
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Jadwal menjalankan action setiap 6 jam
+    - cron: "0 */6 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # Pastikan action dapat checkout branch 'output'
+          fetch-depth: 0 
 
       - uses: Platane/snk@v3
-        id: snake-gif
         with:
-          # Pastikan baris ini menggunakan nama pengguna Anda atau variabel yang benar
-          github_user_name: adil-azuri
-          # Atau menggunakan variabel konteks (disarankan)
-          # github_user_name: ${{ github.repository_owner }}
-          # ... konfigurasi output lainnya ...
+          # Menggunakan variabel konteks untuk nama pengguna (disarankan)
+          github_user_name: ${{ github.repository_owner }} 
+          # Atau, jika Anda ingin menyetelnya secara manual (opsional, tapi ${{ github.repository_owner }} lebih baik):
+          # github_user_name: adil-azuri 
+          
+          # Tentukan file output yang akan dihasilkan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push changes to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output # Branch tempat file snake disimpan
+          build_dir: dist       # Direktori tempat snk Action menyimpan file
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Token akses
