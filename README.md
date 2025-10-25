@@ -16,16 +16,18 @@
 
 **About Me!**
 
-- 🎓 I graduated with a **Bachelor’s Degree in Computer Systems** from Universitas Putra Indonesia YPTK Padang.
-- 🌱 I’m currently learning **Fullstack Web Development** with a focus on **Backend Development** and exploring **Docker** for deployment and containerization.
-- 👨‍💻 I have completed a **Fullstack Developer Bootcamp at Dumbways.id**, gaining real-world project experience and industry-ready skills.
-- 🤔 I’m passionate about building scalable and efficient web applications.
-- 💬 Feel free to ask me anything about **JavaScript**, **TypeScript**, **Express**, or backend development!
-- 📫 [Reach me](mailto:adil.azuri.145@gmail.com).
+- 🎓 I graduated with a [Bachelor’s Degree in Computer Science](https://filkom.upiyptk.ac.id/) from [Putra Indonesia University YPTK](https://www.upiyptk.ac.id).
+- 🌱 I’m currently learning `Fullstack Web Development` with a focus on `Backend Development`.
+- 👨‍💻 I have completed a **Fullstack Developer Bootcamp**, gaining real-world project experience and industry-ready skills.
+- ⚒️ I’m passionate about building scalable and efficient web applications.
+- 🧐 I’m Always learn something new.
+- 🤔 I’m currently open for a new `job opportunity`, this is [My Resume](https://www.linkedin.com/in/adil-aulia-azuri/).
+- 🌐 You can visit [MY WEBSITE](http://adil-azuri.vercel.app).
+  <br><br>
 
 ## <br>
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
   <a href="mailto:adil.azuri.145@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="adil.azuri.145@gmail.com" height="30" width="40" /></a>
@@ -36,7 +38,7 @@
 
 ---
 
-### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -49,7 +51,7 @@
 
 ---
 
-### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -64,7 +66,7 @@
 
 ---
 
-### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -80,7 +82,7 @@
 
 ---
 
-## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -91,7 +93,7 @@
 
 ---
 
-### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
