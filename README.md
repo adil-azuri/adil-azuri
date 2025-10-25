@@ -14,7 +14,7 @@
 <!-- ABOUT ME -->
 <img align="right" alt="GIF" src="/img/coding-typing.gif" width="280" style="margin-left: 20px; margin-bottom: 20px;" />
 
-## **About Me!**
+### **About Me!**
 
 - 🎓 I graduated with a [Bachelor’s Degree in Computer Science](https://filkom.upiyptk.ac.id/) from [Putra Indonesia University YPTK](https://www.upiyptk.ac.id).
 - 🌱 I’m currently learning `Fullstack Web Development` with a focus on `Backend Development`.
@@ -27,7 +27,7 @@
 
 ---
 
-### 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
   <a href="mailto:adil.azuri.145@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="adil.azuri.145@gmail.com" height="30" width="40" /></a>
@@ -40,7 +40,7 @@
 
 <br>
 
-### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -53,7 +53,7 @@
 
 ---
 
-### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -68,7 +68,7 @@
  
 ---
 
-### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-### 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -95,7 +95,7 @@
 
 ---
 
-### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 ---
 
-### 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke that'll make you laugh!
 
 <div align="center">
 
