@@ -27,7 +27,9 @@
 
 ---
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+
+---
 
 <div align="center">
   <a href="mailto:adil.azuri.145@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="adil.azuri.145@gmail.com" height="30" width="40" /></a>
@@ -38,7 +40,9 @@
 
 ---
 
-## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+
+---
 
 <div align="center">
 
@@ -51,7 +55,9 @@
 
 ---
 
-## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+
+---
 
 <div align="center">
 
@@ -67,6 +73,8 @@
 ---
 
 ## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+
+---
 
 <div align="center">
 
@@ -84,6 +92,8 @@
 
 ## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
+---
+
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
@@ -94,6 +104,8 @@
 ---
 
 ## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+
+---
 
 <div align="center">
 
@@ -117,6 +129,8 @@
 ---
 
 ## 😂 Here is a random joke that'll make you laugh!
+
+---
 
 <div align="center">
 
