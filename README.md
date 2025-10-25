@@ -36,9 +36,7 @@
   <a href="https://instagram.com/adil_azuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adil_azuri" height="30" width="40" /></a>
 </div>
 
----
-
-### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -49,9 +47,7 @@
 
 </div>
 
----
-
-### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -64,9 +60,7 @@
 
  </div>
 
----
-
-### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -80,8 +74,6 @@
 
 </div>
 
----
-
 ## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
@@ -91,9 +83,7 @@
 
 </div>
 
----
-
-### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
