@@ -12,7 +12,7 @@
 </h1>
 
 <!-- ABOUT ME -->
-<img align="right" alt="GIF" src="/img/coding-typing.gif" width="300" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" alt="GIF" src="/img/coding-typing.gif" width="280" style="margin-left: 20px; margin-bottom: 20px;" />
 
 **About Me!**
 
@@ -25,7 +25,7 @@
 - 🌐 You can visit [MY WEBSITE](http://adil-azuri.vercel.app).
   <br><br>
 
-## <br>
+---
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
