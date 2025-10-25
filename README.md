@@ -27,7 +27,7 @@
 
 ---
 
-## 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
   <a href="mailto:adil.azuri.145@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="adil.azuri.145@gmail.com" height="30" width="40" /></a>
@@ -36,9 +36,7 @@
   <a href="https://instagram.com/adil_azuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adil_azuri" height="30" width="40" /></a>
 </div>
 
-<br>
-
-## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -49,7 +47,7 @@
 
 </div>
 
-## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -62,7 +60,7 @@
 
  </div>
 
-## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -76,7 +74,7 @@
 
 </div>
 
-## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -85,7 +83,7 @@
 
 </div>
 
-## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
 
@@ -108,7 +106,7 @@
 
 ---
 
-## 😂 Here is a random joke that'll make you laugh!
+### 😂 Here is a random joke that'll make you laugh!
 
 <div align="center">
 
