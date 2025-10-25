@@ -23,7 +23,7 @@
 - 💬 Feel free to ask me anything about **JavaScript**, **TypeScript**, **Express**, or backend development!
 - 📫 [Reach me](mailto:adil.azuri.145@gmail.com).
 
----
+## <br>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
