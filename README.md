@@ -36,6 +36,8 @@
   <a href="https://instagram.com/adil_azuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adil_azuri" height="30" width="40" /></a>
 </div>
 
+---
+
 ## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
@@ -46,6 +48,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 </div>
+
+---
 
 ## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
@@ -59,6 +63,8 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
  </div>
+ 
+---
 
 ## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
@@ -74,6 +80,8 @@
 
 </div>
 
+---
+
 ## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
 <div align="center">
@@ -82,6 +90,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </div>
+
+---
 
 ## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
 
@@ -112,4 +122,6 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## </div>
+</div>
+
+---
