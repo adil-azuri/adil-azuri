@@ -12,7 +12,7 @@
 </h1>
 
 <!-- ABOUT ME -->
-<img align="right" alt="GIF" src="/img/coding-typing.gif" width="280" style="margin-left: 20px; margin-bottom: 20px;" />
+<img align="right" alt="GIF" src="/img/coding-typing.gif" width="300" style="margin-left: 20px; margin-bottom: 20px;" />
 
 ### **About Me!**
 
@@ -23,11 +23,11 @@
 - 🧐 I’m Always learn something new.
 - 🤔 I’m currently open for a new `job opportunity`, this is [My Resume](https://www.linkedin.com/in/adil-aulia-azuri/).
 - 🌐 You can visit [MY WEBSITE](http://adil-azuri.vercel.app).
-  <br><br>
+  <br>
 
 ---
 
-### 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🔗 Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
   <a href="mailto:adil.azuri.145@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" alt="adil.azuri.145@gmail.com" height="30" width="40" /></a>
@@ -36,7 +36,9 @@
   <a href="https://instagram.com/adil_azuri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adil_azuri" height="30" width="40" /></a>
 </div>
 
-### 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+<br>
+
+## 💡 Programming Languages <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
 
@@ -47,7 +49,7 @@
 
 </div>
 
-### 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🌐 Frontend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
 
@@ -60,7 +62,7 @@
 
  </div>
 
-### ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## ⚙️ Backend Development <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
 
@@ -68,13 +70,14 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
 
 </div>
 
-### 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🗃️ Database <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
 
@@ -83,7 +86,7 @@
 
 </div>
 
-### 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="20px">
+## 🧰 Tools & Others <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
 <div align="center">
 
@@ -106,12 +109,10 @@
 
 ---
 
-### 😂 Here is a random joke that'll make you laugh!
+## 🐍 A Snake Eating my Contributions Graph  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px">
 
-<div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/adil-azuri/adil-azuri/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Snake Animation (Dark Theme)">
+</p>
 
 ---
