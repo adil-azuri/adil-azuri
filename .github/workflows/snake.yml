@@ -1,0 +1,10 @@
+# ... kode workflow lainnya ...
+
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          # Pastikan baris ini menggunakan nama pengguna Anda atau variabel yang benar
+          github_user_name: adil-azuri
+          # Atau menggunakan variabel konteks (disarankan)
+          # github_user_name: ${{ github.repository_owner }}
+          # ... konfigurasi output lainnya ...
